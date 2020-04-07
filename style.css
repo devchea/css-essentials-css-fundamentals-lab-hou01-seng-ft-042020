@@ -19,3 +19,7 @@ a{
   padding-right: 10px;
   background-color: gray;
 }
+
+img.figcaption {
+  text-align: center;
+}
