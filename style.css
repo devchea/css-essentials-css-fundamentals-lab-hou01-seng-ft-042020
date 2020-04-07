@@ -23,6 +23,6 @@ nav a{
   background-color: #ccc;
 }
 
-img.figcaption {
+figcaption { 
   text-align: center;
 }
