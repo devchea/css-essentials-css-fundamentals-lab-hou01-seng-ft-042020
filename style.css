@@ -39,5 +39,5 @@ figcaption {
   float: left;
   background-color: red;
   width: 25%;
-  align-items: center;
+  text-align: center;
 }
